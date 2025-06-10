@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="domain\dto\" />
-    <Folder Include="infraestructure\repository\" />
   </ItemGroup>
 
 </Project>
